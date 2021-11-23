@@ -1,0 +1,117 @@
+    body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+      color: black;
+      background-color: #fff;
+    }
+    .jumbotron {
+      background-color: #eb0005;
+      color: #fff;
+      padding: 25px 85px;
+    }
+    .display1{
+      background-color: #eb0005;
+    }
+    .navbar {
+    margin-bottom: 0;
+    background-color: #eb0005;
+    z-index: 9999;
+    border: 0;
+    font-size: 16px !important;
+    line-height: 1.42857143 !important;
+    border-radius: 0;
+  }
+
+  .logo{
+    font-size: 42px;
+  }
+  .logoNdt{
+    font-size: 125px;
+    color: #fb695e;
+    margin-bottom: 10px;
+  }
+
+  .navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+  }
+
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #eb0005 !important;
+    background-color: #fff !important;
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+  }
+
+  .carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #eb0005;
+  }
+
+  .carousel-indicators li {
+    border-color: #eb0005;
+  }
+
+  .carousel-indicators li.active {
+    background-color: #eb0005;
+  }
+
+   .thumbnail {
+    padding: 20px 10px 15px 10px;
+    border: none;
+    border-radius: 0;
+  }
+   .thumbnail img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    }
+
+  .thumbnail:hover img {
+    transform: scale(1.1);
+    }
+
+  a:hover, .hover {
+    color: #eb0005;
+    text-decoration: none
+  }
+
+  a p:hover, .hover {
+    color: #eb0005;
+    text-decoration: none
+  }
+
+  a p{
+    font-size: 18px; 
+    color: black; 
+    text-decoration: none;
+  }
+  .fot{
+      background-color: #eb0005;
+      color: #fff;
+      font-size: 15px;
+  }
+
+  footer .glyphicon {
+    position: fixed;
+    z-index: 9999;
+    font-size: 20px;
+    right: 40px;
+    top: 550px;
+    color: #1944ff;
+  }
+
+  .wrapper{
+    margin: 65px auto;
+  }
+
+  .page-header h2{
+    margin-top: 0;
+  }
+
+  table tr td:last-child a{
+    margin-right: 10px;
+  }
